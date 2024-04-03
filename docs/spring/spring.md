@@ -7,4 +7,4 @@ permalink: /spring/
 
 [Spring Security][spring security]
 
-[spring security]: spring/security/2024/04/03/spring-security.html
+[spring security]: ./spring/security/2024/04/03/spring-security.html

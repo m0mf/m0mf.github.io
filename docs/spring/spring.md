@@ -1,7 +1,7 @@
 ---
 layout: page 
-title:  "Spring"
-date: 2024-04-03
+title:  "Spring Boot 이해하기"
+tag: list
 permalink: /spring/
 ---
 

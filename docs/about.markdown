@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: 어쩌다가 웹개발을...
 permalink: /about/
 ---
+>기계공학과를 졸업하고 장비 설계 분야에서 일을 하다가
+설계 뿐만 아니라 제어까지 하고싶어 소프트웨어를 배우기로 마음을 먹고 퇴사를 했다.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+>국비 지원을 받아서 C언어를 배우는 교육 과정을 수강을 하다가, 우연한 계기로 웹개발을 하는 회사에
+취직을 하게 되었다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+> 재활 로봇 개발분야에서 일을 하고 싶었었지만 개발 경력이 없고,
+ 프레임워크와 라이브러리도 구분 못하는 상태에서 나의 잠재 능력을 믿어달라는 건...
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+>또한 소프트웨어 개발 분야에 따라 사용하는 데이터가 다를 뿐이지
 
+> 알고리즘이나 구현 방법은 같을 것이라고 생각을 해서 일단 경험을 쌓는게 더 중요하다고 생각을 해서
+바로 취직을 하게 되었다. 
 
-[jekyll-organization]: https://github.com/jekyll
+>현재는 책 및 유투브 영상을 찾아보고 공식 문서를 찾아보면서 학습을 하고 있으며, 블로그를 해보고 싶어서
+블로그의 끝판왕이라는 깃블로그를 시작하게 되었다.

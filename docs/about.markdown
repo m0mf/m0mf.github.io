@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 어쩌다가 웹개발을...
+tag: About
 permalink: /about/
 ---
 >기계공학과를 졸업하고 장비 설계 분야에서 일을 하다가

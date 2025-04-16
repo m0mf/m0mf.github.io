@@ -1,6 +1,6 @@
 ---
 layout: page 
-title:  "Spring Boot 이해하기"
+title:  "Spring 이해하기"
 tag: list
 permalink: /spring/
 ---

@@ -5,8 +5,8 @@ tag: list
 permalink: /java/
 ---
 
-[JVM 기초 개념][jvm architecture]
+[JVM 기초 개념][java jvm]
 
 
 
-[jvm architecture]: https://m0mf.github.io/java/jvm/2025/04/15/jvm-architecture.html
+[java jvm]: https://m0mf.github.io/java/jvm/2025/04/15/jvm-architecture.html

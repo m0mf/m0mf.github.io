@@ -1,6 +1,6 @@
 ---
 layout: page 
-title:  "Java 이해하기"
+title:  ""
 tag: list
 permalink: /java/
 ---
